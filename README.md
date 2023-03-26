@@ -1,4 +1,5 @@
-# JS-File-processing-study
+# 玩转JS“文件”处理
+## JS-File-processing-study
 ## 玩转JS文件处理
 - FileReader文件异步读取及解析处理  
 - 文件预览、MIME筛选、多文件处理等技巧  
